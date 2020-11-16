@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449422651818",
+    "firebase_url": "https://todo-afb8f.firebaseio.com",
+    "project_id": "todo-afb8f",
+    "storage_bucket": "todo-afb8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449422651818:android:b02eee02b404da4eac3bd3",
+        "android_client_info": {
+          "package_name": "com.harshsolo.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449422651818-uui0efjr4it2estlckiimcf93ask5996.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshsolo.todo_app",
+            "certificate_hash": "997902dd2044007b2e61397443249af261c944d4"
+          }
+        },
+        {
+          "client_id": "449422651818-lensf9m1rv403p7m14v38tr346qsv32c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTKWNHRA5C-RIXiaK15sgfjhwVbApPns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449422651818-lensf9m1rv403p7m14v38tr346qsv32c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
